@@ -1,3 +1,3 @@
-# Algoritmos_bioinspirados
+# Algoritmos Inspirados pela natureza
 
-Estudos destinados aos algoritmos inspirados pela natureza em várias linguagens
+Estudos destinados aos algoritmos inspirados pela natureza / bioinspirados em várias linguagens
